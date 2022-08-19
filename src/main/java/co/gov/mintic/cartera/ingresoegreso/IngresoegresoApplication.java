@@ -10,4 +10,6 @@ public class IngresoegresoApplication {
 		SpringApplication.run(IngresoegresoApplication.class, args);
 	}
 
+	//Commit fabian Ruales
+
 }
