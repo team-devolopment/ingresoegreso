@@ -13,6 +13,5 @@ public class IngresoegresoApplication {
 	//Commit fabian Ruales
 	//Commit John Robledo /Develop
 	//Commit Andres Forero
-	//Commit Andres Forero
 }
 
