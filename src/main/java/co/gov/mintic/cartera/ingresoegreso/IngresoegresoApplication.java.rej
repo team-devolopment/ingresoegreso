@@ -1,9 +1,0 @@
-diff a/src/main/java/co/gov/mintic/cartera/ingresoegreso/IngresoegresoApplication.java b/src/main/java/co/gov/mintic/cartera/ingresoegreso/IngresoegresoApplication.java	(rejected hunks)
-@@ -12,7 +12,6 @@
- 	//commit hugo
- 	//Commit fabian Ruales
- 	// Commit John Robledo /Develop
--
- 	//Commit Andres Forero
- }
- 
