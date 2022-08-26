@@ -1,12 +1,14 @@
 package co.gov.mintic.cartera.ingresoegreso.entity;
 
+import java.util.Date;
+
 public class profile {
  private String id;
  private String image;
  private String phone;
  private User user;
- private date createdAt;
- private date updatedAt;
+ private Date createdAt;
+ private Date updatedAt;
 
     public String getId() {
         return id;
@@ -40,19 +42,19 @@ public class profile {
         this.user = user;
     }
 
-    public date getCreatedAt() {
+    public Date getCreatedAt() {
         return createdAt;
     }
 
-    public void setCreatedAt(date createdAt) {
+    public void setCreatedAt(Date createdAt) {
         this.createdAt = createdAt;
     }
 
-    public date getUpdatedAt() {
+    public Date getUpdatedAt() {
         return updatedAt;
     }
 
-    public void setUpdatedAt(date updatedAt) {
+    public void setUpdatedAt(Date updatedAt) {
         this.updatedAt = updatedAt;
     }
 
